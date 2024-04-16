@@ -5,17 +5,17 @@
 3. Test Cases
 4. Test Metrics
 5. Bug Reports
-6. Project Info - https://drive.google.com/drive/u/0/folders/1X3UyLjCe5FL9uLOqT5eNLTOnvO0lhzrE
+6. [Project Info](https://drive.google.com/drive/u/0/folders/1X3UyLjCe5FL9uLOqT5eNLTOnvO0lhzrE)
 
 
-**Project #2** - Test Plan and Test Case for open cart app (https://awesomeqa.com/ui/index.php?route=account/login)
+**Project #2** - Test Plan and Test Case for open cart app [Website Link](https://awesomeqa.com/ui/index.php?route=account/login)
 
 1. Requirement Doc.
 2. Test Plan
 3. Test Cases
 4. Test Metrics
 5. Bug Reports
-6. Project Info - https://drive.google.com/drive/u/0/folders/1YSmp0mBxgwxJlNd9_HF6FtHY7tZ8Hn3w
+6. [Project Info](https://drive.google.com/drive/u/0/folders/1YSmp0mBxgwxJlNd9_HF6FtHY7tZ8Hn3w)
 
 
 
